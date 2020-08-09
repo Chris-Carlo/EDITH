@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### About 🙋🏻‍♂️
 ```python
 NAME = "Chris Carlo"
-I AM = 'Developer','Coder','Programmer','Web Designer','Noob']
+I AM = ['Developer','Coder','Programmer','Web Designer','Noob']
 AGE = 12
 COUNTRY = "INDIA"
 ```
