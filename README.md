@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I am Available 👇
 <p>
   <a href="https://www.linkedin.com/in">
-    <img align="left" alt="Chris Carlo LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+   <a href="https://www.linkedin.com/in/niranjannb/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/in.jpg" width="50" height="50" /></a>
   </a>
   <a href="https://twitter.com">
     <img align="left" alt="Chris Carlo Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
