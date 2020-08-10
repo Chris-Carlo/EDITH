@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
+### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
 
 
 ### I am Available 👇
@@ -72,4 +73,4 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Carlo&layout=compact)](https://github.com/Chris-Carlo)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chris-Carlo&repo=github-readme-stats&theme=vue-dark&cache_seconds=86400)](https://github.com/Chris-Carlo/Chris-Carlo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chris-Carlo&repo=&theme=vue-dark&cache_seconds=86400)](https://github.com/Chris-Carlo/Chris-Carlo)
