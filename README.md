@@ -69,4 +69,13 @@ COUNTRY = "INDIA"
 
 ### Stats ⚡️
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Chris-Carlo&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Chris-Carlo&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
+
+___
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjanprof&layout=compact)](https://github.com/Chris-Carlo)
+
+___
+
+
+Credits : <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/ebfdd465daa90626d0ab0d0fddc0e457c942a392/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" width="40" height="40" /></a>
