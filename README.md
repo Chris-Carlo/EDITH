@@ -69,7 +69,7 @@ COUNTRY = "INDIA"
 
 ### Stats ⚡️
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Chris-Carlo&show_icons=true&include_all_commits=true&theme=red-dark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Chris-Carlo&show_icons=true&include_all_commits=true&theme=monokai&cache_seconds=86400)
 
 ___
 
