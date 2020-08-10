@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I am Available 👇
 <p>
-<a href="https://www.linkedin.com/in"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/in.jpg" width="60" height="50" /></a>
+<a href="https://www.linkedin.com/in"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/in.jpg" width="60" height="60" /></a>
 <a href="https://tx.me/moneyheistoftelegram"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/unnamed.png" width="40" height="40" /></a>
 <a href="https://www.instagram.com/chris_carlo_victor/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/insta.jpg" width="40" height="40" /></a>
 <a href="https://twitter.com/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/twi.png" width="40" height="40" /></a>
