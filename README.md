@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/c/">
     <img align="left" alt="Chris Carlo YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
   </a>
-   <a href="https://www.quora.com/">
-  <img align="left" alt="Chris Carlo Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
+   <a href="https://www.facebook.com/deva.nandananbh">
+  <img align="left" alt="Chris Carlo Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
   <a href="https://visi.tk/Chris">
     <img align="left" alt="Chris Carlo Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
