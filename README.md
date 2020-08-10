@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Chris Carlo!](https://technogramx.tk) 👋
+### Hi there, I'm [Chris Carlo!](https://visi.tk/Chris) 👋
 
 
 ### I am Available 👇
