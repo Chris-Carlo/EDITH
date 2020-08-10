@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://tx.me/moneyheistoftelegram"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/unnamed.png" width="40" height="40" /></a>
 <a href="https://www.instagram.com/chris_carlo_victor/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/insta.jpg" width="40" height="40" /></a>
 <a href="https://twitter.com/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/twi.png" width="40" height="40" /></a>
-<a href="https://www.facebook.com/deva.nandananbh"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Faceboo.png" width="40" height="40" /></a>
+<a href="https://www.facebook.com/deva.nandananbh"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Facebook.webp" width="40" height="40" /></a>
 
   <a href="https://www.youtube.com/c/">
     <img align="left" alt="Chris Carlo YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
