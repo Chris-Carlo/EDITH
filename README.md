@@ -73,4 +73,4 @@ COUNTRY = "INDIA"
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjanprof&layout=compact)](https://github.com/Chris-Carlo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Carlo&layout=compact)](https://github.com/Chris-Carlo)
