@@ -17,26 +17,19 @@ Here are some ideas to get you started:
 
 ### I am Available 👇
 <p>
-  <a href="https://www.linkedin.com/in">
-   <a href="https://www.linkedin.com/in/niranjannb/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/in.jpg" width="50" height="50" /></a>
-  </a>
-  <a href="https://twitter.com">
-    <img align="left" alt="Chris Carlo Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
-  </a>
+<a href="https://www.linkedin.com/in"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/in.jpg" width="50" height="50" /></a>
+<a href="https://tx.me/Chris_Carlo"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/unnamed.png" width="40" height="40" /></a>
+<a href="https://www.instagram.com/chris_carlo_victor/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/insta.jpg" width="40" height="40" /></a>
+<a href="https://twitter.com/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/twi.png" width="40" height="40" /></a>
+
   <a href="https://www.youtube.com/c/">
     <img align="left" alt="Chris Carlo YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
   </a>
-  <a href="https://instagram.com/">
-    <img align="left" alt="Chris Carlo Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a>
-   <a href="https://www.quora.com/profile/Sumanjay">
+   <a href="https://www.quora.com/">
   <img align="left" alt="Chris Carlo Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
   </a>
   <a href="https://visi.tk/Chris">
     <img align="left" alt="Chris Carlo Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
-  </a>
-  <a href="https://telegram.dog/Chris_Carlo">
-    <img align="left" alt="Chris Carlo Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
   
 </p>
