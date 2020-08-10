@@ -17,16 +17,14 @@ Here are some ideas to get you started:
 
 ### I am Available 👇
 <p>
-<a href="https://www.linkedin.com/in"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/0.jpg" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Linkedin.jpg" width="40" height="40" /></a>
 <a href="https://tx.me/moneyheistoftelegram"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/unnamed.png" width="40" height="40" /></a>
 <a href="https://www.instagram.com/chris_carlo_victor/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/insta.jpg" width="40" height="40" /></a>
 <a href="https://twitter.com/"><img src="https://raw.githubusercontent.com/Niranjanprof/Niranjanprof/master/twi.png" width="40" height="40" /></a>
+<a href="https://www.facebook.com/deva.nandananbh"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Faceboo.png" width="40" height="40" /></a>
 
   <a href="https://www.youtube.com/c/">
     <img align="left" alt="Chris Carlo YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-  </a>
-   <a href="https://www.facebook.com/deva.nandananbh">
-  <img align="left" alt="Chris Carlo Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
   <a href="https://visi.tk/Chris">
     <img align="left" alt="Chris Carlo Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
