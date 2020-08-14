@@ -51,7 +51,7 @@ COUNTRY = "INDIA"
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Android.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/MongoDB.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/MySQL.png" width="40" height="40" /></a>
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
+<a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Javascript.png" width="40" height="40" /></a>
 <img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" />
 <img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
 <img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
