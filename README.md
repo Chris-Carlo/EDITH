@@ -69,4 +69,4 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Carlo&layout=compact)](https://github.com/Chris-Carlo)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chris-Carlo&repo=&theme=vue-dark&cache_seconds=86400)](https://github.com/Chris-Carlo/Chris-Carlo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chris-Carlo&repo=&theme=vue-dark&cache_seconds=86400)](https://github.com/Chris-Carlo/COMING-SOON)
