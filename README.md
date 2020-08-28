@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I am Available 👇
 <p>
 <a href="https://www.linkedin.com/in"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Linkedin.jpg" width="40" height="40" /></a>
-<a href="https://tx.me/moneyheistoftelegram"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Telegram.png" width="40" height="40" /></a>
+<a href="https://tx.me/Chris_Carlo"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Telegram.png" width="40" height="40" /></a>
 <a href="https://www.instagram.com/chris_carlo_victor/"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Instagram.jpg" width="40" height="40" /></a>
 <a href="https://twitter.com/"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Twitter.png" width="40" height="40" /></a>
 <a href="https://www.facebook.com/deva.nandananbh"><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Facebook.webp" width="40" height="40" /></a>
